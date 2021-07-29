@@ -8,3 +8,15 @@ else:
         print("Weird")
     else:
         print("Not Weird")
+
+'''
+o/p-
+3
+Weird
+
+6
+Weird
+
+24
+Not Weird
+'''
